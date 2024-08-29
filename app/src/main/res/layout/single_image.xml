@@ -1,0 +1,8 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/image"
+    android:shape="rectangle"
+    android:radius="4.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="800dp"
+    android:scaleType="fitXY" />
